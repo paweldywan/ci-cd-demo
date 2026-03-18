@@ -31,7 +31,7 @@ ci-cd-demo/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/paweldywan/ci-cd-demo.git
+   git clone https://github.com/paweldywandev/ci-cd-demo.git
    cd ci-cd-demo
    ```
 
@@ -79,3 +79,4 @@ ISC
 ## Author
 
 Created as a demonstration project for CI/CD concepts.
+
